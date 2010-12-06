@@ -1,3 +1,8 @@
+/*
+geoJoy by Claim Soluciones, S.C.P. is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+Permissions beyond the scope of this license may be available at http://www.claimsoluciones.com.
+License Info: http://creativecommons.org/licenses/by-nc-sa/3.0/
+*/
 function loadItem(key, name, type, lat, lng) {
 	$('.itemList_li').remove();
 	$('#itemList_map').remove();
