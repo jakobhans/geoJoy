@@ -17,9 +17,9 @@ Files
 License
 -------
 
-geoJoy by Claim Soluciones, S.C.P. is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+geoJoy by Claim Soluciones, S.C.P. is licensed under a GNU General Public License, version 3 (GPL v3).
 Permissions beyond the scope of this license may be available at http://www.claimsoluciones.com.
 
-License Info: http://creativecommons.org/licenses/by-nc-sa/3.0/
+License Info: http://www.opensource.org/licenses/gpl-3.0.html
 
 Source Code: http://github.com/jakobhans/geojoy
