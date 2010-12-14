@@ -92,7 +92,7 @@ function handleErrors(error) {
 		case error.PERMISSION_DENIED: alert('User did not allow geoLocation.');
 		break;
 				
-		case error.POSITION_UNAVAILABLE: alert('Position is not aquirable.');
+		case error.POSITION_UNAVAILABLE: alert('Position is not acquirable.');
 		break;
 				
 		case error.TIMEOUT: alert('Position retrieval timed out.');
