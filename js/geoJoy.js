@@ -77,7 +77,7 @@ function handlePosition(position) {
 	var itemId = dateId.getTime();
 	document.getElementById('itemId').value = itemId;
 	document.getElementById('coordinates').value = lat + ',' + lng;
-	var imageURL = "http://maps.google.com/maps/api/staticmap?sensor=false&center=" + lat + ',' + lng+"&zoom=15&size=260x100&markers=color:blue|" + lat + ',' + lng;
+	var imageURL = "http://maps.google.com/maps/api/staticmap?sensor=true&center=" + lat + ',' + lng+"&zoom=15&size=260x100&markers=color:blue|" + lat + ',' + lng;
 	$('#mapImage').empty();
 	$('#mapImage').append('<img src="'+imageURL+'" alt="Google Map">');
 	if (document.getElementById('clearSaveButtons').style.display === 'none') {
