@@ -22,4 +22,4 @@ Permissions beyond the scope of this license may be available at http://www.clai
 
 License Info: http://www.opensource.org/licenses/gpl-3.0.html
 
-Source Code: http://github.com/jakobhans/geojoy
+Source Code: https://github.com/jakobhans/geojoy
